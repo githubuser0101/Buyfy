@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-**Fashion Store** is a Full Stack ECommerce App Built with Reactjs, Nodejs, Express and  MongoDB (MERN Stack)
+**Buyfy** is a Full Stack ECommerce App Built with Reactjs, Nodejs, Express and  MongoDB (MERN Stack)
 
 ## 2. Features
 
