@@ -31,18 +31,6 @@ Tech Stack used to develop FashionStore:
 ![React  js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## 3. Screenshots
-#### Home Page
-![fs_1](https://github.com/Ayush-Bulbule/FashionStore/assets/69710917/b0e6cbeb-86ab-4188-98bf-8752406ae536)
-#### Product Details 
-![fs_2](https://github.com/Ayush-Bulbule/FashionStore/assets/69710917/80ab6b41-2fc2-4658-938d-f0768fd702ea)
-![fs_3](https://github.com/Ayush-Bulbule/FashionStore/assets/69710917/cfe86bda-e65f-4dcd-8ec4-aa1ff4888fcf)
-#### Orders Page
-![fs_4](https://github.com/Ayush-Bulbule/FashionStore/assets/69710917/bc645e69-a4e0-4892-9d87-5e5f582720c3)
-#### Tracking Page
-![fs_5](https://github.com/Ayush-Bulbule/FashionStore/assets/69710917/e28a26e6-5f60-4947-bb6b-462d9ad69c67)
-![fs_6](https://github.com/Ayush-Bulbule/FashionStore/assets/69710917/633ef549-d18d-4452-a726-e4d6fd4819c5)
-
 
 ## 4. Setup Locally
 
